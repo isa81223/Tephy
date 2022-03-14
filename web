@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: #D8BDE7;}
+h2 {color:#A39DD5;
+	text-align:center;
+	font-size: 300%;}
+ h1 {color:#cc66ff;
+	text-align:center;
+	font-size: 100%;}
+th, td {border: 1px dotted black;border-radius: 10px; text-align: center}
+th {background-color: #96D4D4;}
+td{background-color: #FCE4CA;}
+</style>
+<h2>Tephi</h2>
+<h2>Stephanie Orellana</h2>
+<h1>Basic Info</h1>
+<table style="width:100%">
+  <tr>
+    <th>Name</td>
+    <th>Age</td>
+    <th>Country of Residence</td>
+    <th>Country of Birth</td>
+    
+  </tr>
+  <tr>
+    <td>Stephanie Orellana</td>
+    <td>17</td>
+    <td>Canada</td>
+    <td>Guatemala</td>
+    </tr>
+ </table>
+<p style="color:Blue;">Stephany Orellana is 17 years old and was born in Guatemla.<br> When she was 14 she moved from Guatemala to Brooklin Canada <br> where she now live with her mom, dad, sister,2 dogs and cat.</p>
+<h1>What she likes</h1>
+<table style="width:100%">
+  <tr>
+    <th>Hobbies</td>
+    <th>Fav School Subjects</td>
+    <th>Favorite Music</td>
+    
+  </tr>
+  <tr>
+    <td>Painting</td>
+    <td>Art</td>
+    <td>Indie</td>
+    
+  </tr>
+   <tr>
+    <td>Hiking</td>
+    <td>French</td>
+    <td>70s y 80s</td>
+
+  </tr>
+ </table>
+<p style="color: #44F9E2;">Stephany Orellana has various hobbies she enjoyes Painting, 
+hiking amongst other things.<br> At school she enjoys her french, art and maths classes the most but she enjoyes being at <br> school because of ther friends. She enjoyes listening to indie and 70s and 80s music.</p>
+<h1>Fun Facts</h1>
+<ol>
+  <li>Has purple dyed hair</li>
+  <li>Her cats name is Kyoko after an anime</li>
+  <li>She is vegetarian</li>
+  <li>Is going to study art</li>
+  <li>Stephanies and Isas Song: Hello by Lionel Richie</li>
+</ol>
+<a href="https://www.youtube.com/watch?v=mHONNcZbwDY">Hello Lionel Richie</a>
+
+
+
+</body>
+</html>
